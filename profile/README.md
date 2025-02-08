@@ -15,6 +15,6 @@
 3. 코드 리뷰 및 피드백을 받으려면 Pull Request(PR)을 생성하세요.
 
 ## 🌍 공식 홈페이지
-[ERICA LIKELION](https://erica.vercel.app)  
+[ERICA LIKELION](https://ericalion.vercel.app)  
 
 더 나은 개발 문화를 위해 함께 성장해요! 💡
